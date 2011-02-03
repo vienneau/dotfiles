@@ -1,0 +1,7 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =5
+let g:netrw_dirhist_1='/home/vienneau/.gem/specs'
+let g:netrw_dirhist_2='/home/vienneau/.gem/specs/rubygems.org%80'
+let g:netrw_dirhist_3='/home/vienneau/.gem/specs'
+let g:netrw_dirhist_4='/home/vienneau/.gem'
+let g:netrw_dirhist_5='/home/vienneau'

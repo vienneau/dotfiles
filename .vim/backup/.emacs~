@@ -1,0 +1,6 @@
+(require 'color-theme)
+(color-theme-initialize)
+(load-file "~/elisp/color-theme-railscasts.el")
+(color-theme-railscasts)
+
+(tool-bar-mode -1)

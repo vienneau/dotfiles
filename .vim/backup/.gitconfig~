@@ -1,0 +1,8 @@
+[user]
+	name = Ben Holley
+	email = ben@isotope11.com
+[color]
+	diff = auto
+[diff]
+	tool = meld
+	external = meld
